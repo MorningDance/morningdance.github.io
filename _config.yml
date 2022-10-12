@@ -1,2 +1,3 @@
-name: Richard Li, Office 365® fan
+name: Richard Li, an Microsoft Office 365 fan
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
