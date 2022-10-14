@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Richard Li, an Office 365 fan, launches site"
+title: "Richard Li, a Microsoft 365 fan, launches site"
 date: 2022-10-12
 ---
 
